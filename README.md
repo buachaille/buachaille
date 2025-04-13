@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buachaille
 - 👀 I’m interested in python, SQL, containers
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on ???
+- 🌱 I’m currently learning Streamlit
+- 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me : paul (at) im-not-normal (dot) com
 
 <!---
